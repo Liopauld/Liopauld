@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Paul Dominic 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer</b> · Philippines 🇵🇭<br />
-  I take ideas from an empty repo to a shipped product — web, mobile, and a little machine learning.
+  <b>Student</b> · Bachelor of Science in Information Technology<br />
+  
 </p>
 
 <p align="center">
