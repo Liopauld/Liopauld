@@ -32,6 +32,15 @@
 
 ---
 
+### ⚡ Currently
+
+- 🔭 Building full-stack products end-to-end — most recently **HeyFutureJasmine**, a timed-delivery time-capsule app.
+- 🌱 Going deeper on **applied ML** (FastAPI + model serving) and **background job pipelines** (BullMQ + Redis).
+- 📱 Exploring **cross-platform mobile** by wrapping React apps with Capacitor.
+- 💡 Open to collaboration and freelance work.
+
+---
+
 ### 🚀 Featured projects
 
 | Project | What it is | Stack |
@@ -50,6 +59,26 @@
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Liopauld&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liopauld&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Liopauld&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Liopauld&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
+</p>
+
+---
+
+### 🐍 Contribution graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Liopauld/Liopauld/output/github-snake-dark.svg" alt="Contribution snake animation" />
 </p>
 
 ---
